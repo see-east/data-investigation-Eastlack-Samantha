@@ -28,4 +28,43 @@ I wanted to examine the manufacturer data amd the sum of prices for each brand l
 
 To double check this, I pulled the manufacturer data with the count of each, showing how many vehicles of each brand appear on Craigslist during this time. At the top now is Ford with 70,985 vehicles listed. Ford and Chevrolet are the top in volume of listings as they are affordable brands. Mercedes-Benz, BMW, and Toyota dominate in total value — fewer listings but higher prices per unit. This could indicate that the Toyota brand holds value longer than similar competitors, aligning their resell price point closer to that of a used luxury vehicle. An anomaly is Volvo - the brand is number 5 in sum of price but falls to number 24 in number of vehicles listed. The Volvo brand resell value tends to be on average with other luxury brands so I would want to examine this further at a later date. Finally, I created a chart to show the car manufacturer vs the average price and the data appears skewed by incorrectly input prices by the seller. The average cost of a Mercedes-Benz is showing as $513,710 and Volvo as $383,755, and surprisingly Toyota, Jeep and Chevrolet look to have incorrect sale prices inflating that average price amount. 
 
+**Business Insights Report**
+
+This analysis uses Craigslist vehicle listing data to generate insights relevant to automotive marketing, used vehicle dealership strategy, and inventory management. Key findings focus on manufacturer popularity, pricing trends, and regional activity. This data provides actionable recommendations for dealership decision makers and advertising agencies  to target high-demand vehicles, and understand the changing used car market.
+
+
+•	The top brands by listing volume are Ford (70,985 listings), Chevrolet, Toyota.
+
+•	Top brands by total listing value are Toyota (~$8.0B), Mercedes-Benz, Chevrolet.
+
+•	Dealerships can adapt to meet local demand, with high-volume brands for mass campaigns and luxury/high-value brands for targeted, value-driven campaigns.
+
+
+_Pricing Insights_
+
+
+• Affordable brands dominate listing counts, while luxury brands dominate total market value due to higher per-unit prices.
+
+•	Average listing prices for some brands (Mercedes-Benz: $513,710, Volvo: $383,755 etc.) are inflated by reporting anomalies.
+
+•	Median or range-based pricing is more reliable for campaign planning and competitive benchmarking.
+
+•	Pricing strategies should consider median market values per manufacturer to avoid overpricing inventory relative to market expectations.
+
+
+_Strategic Recommendations_
+
+
+•	Prioritize high-volume brands (Ford, Chevrolet) for broad-reach campaigns.
+
+• Promote high-value brands (Mercedes-Benz, Toyota, BMW) with targeted messaging emphasizing quality and resale value.
+
+•	Use median prices for inventory benchmarking to avoid skew from outliers.
+
+•	Adjust marketing for states with higher listing volumes to remain competitive.
+
+•	Continuously monitor listing trends to detect shifts in regional demand or emerging popular brands.
+
+
+This analysis utilizes Craigslist data to provide actionable insights for automotive stakeholders, emphasizing market value, regional trends, and manufacturer demand. By leveraging these findings, dealerships and marketing teams can improve advertising, pricing strategies, and inventory planning, gaining an edge on the competition in the used car market.
 
